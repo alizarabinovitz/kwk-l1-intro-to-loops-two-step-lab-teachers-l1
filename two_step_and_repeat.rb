@@ -1,9 +1,13 @@
 def first_steps
   loop do
     puts "Right foot back"
+    sleep(0.5)
     puts "Left foot back"
+    sleep(0.5)
     puts "Right foot back"
+    sleep(0.5)
     puts "Stop"
+    sleep(0.5)
   end
   # Write a loop that outputs "Right foot back", "Left foot back",
   # "Right foot back", and "Stop", with sleep after each
@@ -18,6 +22,7 @@ def a_few_more_steps
 end
 
 def how_many_steps?
+  
   # Write a loop that fulfills all criteria from Part 3 of the README.md
 end
 
