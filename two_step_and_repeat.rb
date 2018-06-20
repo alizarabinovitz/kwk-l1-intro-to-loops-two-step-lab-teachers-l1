@@ -36,7 +36,11 @@ def a_few_more_steps
 end
 
 def how_many_steps?
-
+  steps = 0
+  loop do
+    steps = steps + 1
+    
+  end
   # Write a loop that fulfills all criteria from Part 3 of the README.md
 end
 
